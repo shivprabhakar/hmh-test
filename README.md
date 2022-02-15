@@ -3,7 +3,7 @@
 2) Feature Scenario covered for automation:
   - Verify different page navigation
   - Verify search text
-3) Framework design overview:
+3) Automation suite design overview:
   - Design patterns: page object and page factory
   - BDD style (feature/step def)
   - Maven based build
